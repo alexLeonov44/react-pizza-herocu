@@ -1,0 +1,5 @@
+//cart
+export const ADD_PIZZA_CART = 'CART/ADD_PIZZA_CART'
+export const PIZZA_ON_PLUS = 'CART/PIZZA_ON_PLUS'
+export const PIZZA_ON_MINUS = 'CART/PIZZA_ON_MINUS'
+export const REMOVE_PIZZA = 'CART/REMOVE_PIZZA'
